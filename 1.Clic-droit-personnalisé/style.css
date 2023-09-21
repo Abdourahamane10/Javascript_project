@@ -10,13 +10,13 @@ body {
 }
 
 .custom-menu {
-  display: block;
+  display: none;
   position: absolute;
   border: 1px solid #f1f1f1;
 }
 
 .custom-menu button {
-  display: none;
+  display: block;
   min-width: 125px;
   background-color: #111;
   color: #e7e7e7;
